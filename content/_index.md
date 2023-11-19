@@ -97,8 +97,7 @@ sections:
         - title: Research Assistant
           company: Kiel Economics Research & Forecasting
           company_url: 'https://kieleconomics.de'
-          company_logo: python
-          icon_pack: fab
+          company_logo: ''
           location: Kiel, Germany
           date_start: '2014-04-01'
           date_end: '2018-04-30'
