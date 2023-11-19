@@ -50,17 +50,17 @@ skills:
     items:
       - name: Matlab
         description: ''
-        percent: 100
+        # percent: 100
         icon: python
         icon_pack: fab
       - name: R
         description: ''
-        percent: 80
+        # percent: 80
         icon: python
         icon_pack: fab
       - name: Python
         description: ''
-        percent: 60
+        # percent: 60
         icon: python
         icon_pack: fab
   # - name: Hobbies
