@@ -92,7 +92,7 @@ sections:
           company_logo: ecb-logo
           location: Frankfurt, Germany
           date_start: '2018-05-15'
-          date_end: '2018-05-14'
+          date_end: '2019-05-14'
           description: ''
         - title: Research Assistant
           company: Kiel Economics Research & Forecasting
